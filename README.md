@@ -16,14 +16,14 @@ Httpsplay is a command-line tool for checking HTTP response codes of URLs, suppo
 Ensure you have Python 3.7+ installed. Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/the-lost-boy-231/Httpsplay
 cd Sub0ut
 pip install -r requirements.txt
 ```
 ## Usage
 ### Command-Line Arguments
 ```bash
-python Sub0ut.py [-h] [-u URL] [-f FILE] [-r RETRIES] [-t TIMEOUT] [-o OUTPUT] [-c STATUS_CODE] [-v] [-a USER_AGENT] [-p PROXY]
+python Httpsplay.py [-h] [-u URL] [-f FILE] [-r RETRIES] [-t TIMEOUT] [-o OUTPUT] [-c STATUS_CODE] [-v] [-a USER_AGENT] [-p PROXY]
 ```
 **Function Usage:**
 * **-d [Domain]**: The domain you want to enumerate subdomains of.
