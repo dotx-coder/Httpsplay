@@ -26,7 +26,8 @@ pip install -r requirements.txt
 python httpsplay.py [-h] [-u URL] [-f FILE] [-r RETRIES] [-t TIMEOUT] [-o OUTPUT] [-c STATUS_CODE] [-v] [-a USER_AGENT] [-p PROXY]
 ```
 **Function Usage:**
-* **-d [Domain]**: The domain you want to enumerate subdomains of.
+* **-u [URL]**: A single url for check.
+* **-f [filepath]**: Path to the file containing URLs
 * **-o [Filename]**: Save the output into text file.
 * **-v [Verbose]**: Enable verbose mode.
 * **-p [Proxy_URL]**: Proxy URL to use for requests.
