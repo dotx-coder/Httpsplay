@@ -17,7 +17,7 @@ Ensure you have Python 3.7+ installed. Clone the repository and install dependen
 
 ```bash
 git clone https://github.com/the-lost-boy-231/Httpsplay
-cd Sub0ut
+cd Httpsplay
 pip install -r requirements.txt
 ```
 ## Usage
