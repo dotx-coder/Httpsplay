@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Usage
 ### Command-Line Arguments
 ```bash
-python Httpsplay.py [-h] [-u URL] [-f FILE] [-r RETRIES] [-t TIMEOUT] [-o OUTPUT] [-c STATUS_CODE] [-v] [-a USER_AGENT] [-p PROXY]
+python httpsplay.py [-h] [-u URL] [-f FILE] [-r RETRIES] [-t TIMEOUT] [-o OUTPUT] [-c STATUS_CODE] [-v] [-a USER_AGENT] [-p PROXY]
 ```
 **Function Usage:**
 * **-d [Domain]**: The domain you want to enumerate subdomains of.
