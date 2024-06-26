@@ -1,7 +1,7 @@
 
-# Sub0ut
+# Httpsplay 
 
-Sub0ut is a command-line tool for checking HTTP response codes of URLs, supporting both single URL and batch file processing. It uses asyncio and aiohttp for asynchronous URL checking, allowing efficient handling of multiple requests concurrently.
+Httpsplay is a command-line tool for checking HTTP response codes of URLs, supporting both single URL and batch file processing. It uses asyncio and aiohttp for asynchronous URL checking, allowing efficient handling of multiple requests concurrently.
 
 ## Features
 
