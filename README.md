@@ -36,7 +36,7 @@ python Sub0ut.py [-h] [-u URL] [-f FILE] [-r RETRIES] [-t TIMEOUT] [-o OUTPUT] [
 * 
 ## License
 
-Httpsplay is licensed under the MIT license. take a look at the [LICENSE](https://GitHub.com/Httpsplay/main/LICENSE>
+Httpsplay is licensed under the MIT license. take a look at the [LICENSE](https://GitHub.com/Httpsplay/main/LICENSE) for more information.>
 
 ## Credits
 **Credit Goes To:**
